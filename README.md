@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ddwivedi2003
 - 👀 I’m interested in ... Programming and engineering
-- 🌱 I’m currently learning C
 - 📫 How to reach me ...ddwivedi2003@gmail.com
 
 <!---
